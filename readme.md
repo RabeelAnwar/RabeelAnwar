@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I’m Rabeel Anwar, a Computer Science student of Virtual University of Pakistan, Lahore. I’m passionate about software development and eager to apply my skills in full-stack engineering. 📚<br><br>🚀 I’m seeking roles where I can leverage my expertise in HTML/CSS, JavaScript, Angular, C# (ASP.NET Core), and Python to drive innovation and contribute to impactful projects. 💡<br><br>📧 Feel free to reach out: raorabeel1360@gmail.com
+👋 Hello! I’m Rabeel Anwar, a Computer Science student of Virtual University of Pakistan, Lahore. I’m passionate about software development and eager to apply my skills in full-stack engineering. 📚<br><br>🚀 I’m seeking roles where I can leverage my expertise in HTML/CSS, JavaScript, Angular, C# (ASP.NET Core), and Jquery to drive innovation and contribute to impactful projects. 💡<br><br>📧 Feel free to reach out: raorabeel1360@gmail.com
 
 
 ## 🌐 Socials:
