@@ -18,10 +18,7 @@
 ---
 
 # 🌩 Cloud & VPS Technologies:
-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- ![Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-- ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr&logoColor=white)
-- ![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr&logoColor=white) ![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 ---
 
