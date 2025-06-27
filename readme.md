@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I’m **Rabeel Anwar**, a passionate **Software Engineer** with a Bachelor's in Software Engineering from the **Virtual University of Pakistan**. I have over 4 years of experience in full-stack development, focusing on **ASP.NET Core, Angular, SQL Server**, and **API integrations**. I’m always eager to apply my skills in building scalable and innovative solutions. 📚
+👋 Hello! I’m **Rabeel Anwar**, a passionate **Software Engineer** with a Bachelor's in Software Engineering from the **Virtual University of Pakistan**. I have over 8 years of experience in full-stack development, focusing on **ASP.NET Core, Angular, SQL Server**, and **API integrations**. I’m always eager to apply my skills in building scalable and innovative solutions. 📚
 
 🚀 I’m actively seeking roles where I can leverage my expertise in **C#, ASP.NET Core,,MAUI, JavaScript, Angular**, and **API development** to drive impactful projects and contribute to a forward-thinking team. 💡
 
